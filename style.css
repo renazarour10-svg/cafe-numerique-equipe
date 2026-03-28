@@ -1,6 +1,5 @@
-/* =============================
-STYLES GLOBAUX — Cafe Numerique
-============================= */
+ 
+/*STYLES GLOBAUX — Cafe Numerique*/
 /* Reset de base */
 * {
 margin: 0;
@@ -94,3 +93,5 @@ margin-top: 1.5rem;
 transition: background-color 0.3s;
 }
 .btn:hover { background-color: white; }
+/* Style de base */ 
+ 
